@@ -1,0 +1,5 @@
+export const uiTypes = {
+  OPEN_MODAL: 'OPEN_MODAL',
+  CLOSE_MODAL: 'CLOSE_MODAL',
+  SET_SELECTED_DATA: 'SET_SELECTED_DATA'
+}
